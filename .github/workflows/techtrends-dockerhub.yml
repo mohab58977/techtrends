@@ -30,4 +30,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: localhost/techtrends:latest, mohab5897/techtrends:latest
+          tags: mohab5897/techtrends:latest, mohab5897/techtrends:v1.0.2
